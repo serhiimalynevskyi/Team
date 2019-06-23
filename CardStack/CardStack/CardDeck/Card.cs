@@ -9,9 +9,12 @@ namespace CardGame
     class Card
     {
         public string cardname;
+        public int rank;
+        public Suit Suit;
+        public bool IsTrump = false;
         public Card(int rank, Suit suit)
         {
-            this.cardname = rank + suit.ToString();
+            this.cardname = rank + " " + suit.ToString();
         }
     }
 }
