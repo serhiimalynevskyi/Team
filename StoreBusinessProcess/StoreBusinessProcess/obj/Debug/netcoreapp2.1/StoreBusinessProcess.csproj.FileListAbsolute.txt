@@ -1,0 +1,11 @@
+D:\Projects\StoreBusinessProcess\StoreBusinessProcess\obj\Debug\netcoreapp2.1\StoreBusinessProcess.csprojAssemblyReference.cache
+D:\Projects\StoreBusinessProcess\StoreBusinessProcess\obj\Debug\netcoreapp2.1\StoreBusinessProcess.csproj.CoreCompileInputs.cache
+D:\Projects\StoreBusinessProcess\StoreBusinessProcess\obj\Debug\netcoreapp2.1\StoreBusinessProcess.AssemblyInfoInputs.cache
+D:\Projects\StoreBusinessProcess\StoreBusinessProcess\obj\Debug\netcoreapp2.1\StoreBusinessProcess.AssemblyInfo.cs
+D:\Projects\StoreBusinessProcess\StoreBusinessProcess\bin\Debug\netcoreapp2.1\StoreBusinessProcess.deps.json
+D:\Projects\StoreBusinessProcess\StoreBusinessProcess\bin\Debug\netcoreapp2.1\StoreBusinessProcess.runtimeconfig.json
+D:\Projects\StoreBusinessProcess\StoreBusinessProcess\bin\Debug\netcoreapp2.1\StoreBusinessProcess.runtimeconfig.dev.json
+D:\Projects\StoreBusinessProcess\StoreBusinessProcess\bin\Debug\netcoreapp2.1\StoreBusinessProcess.dll
+D:\Projects\StoreBusinessProcess\StoreBusinessProcess\bin\Debug\netcoreapp2.1\StoreBusinessProcess.pdb
+D:\Projects\StoreBusinessProcess\StoreBusinessProcess\obj\Debug\netcoreapp2.1\StoreBusinessProcess.dll
+D:\Projects\StoreBusinessProcess\StoreBusinessProcess\obj\Debug\netcoreapp2.1\StoreBusinessProcess.pdb

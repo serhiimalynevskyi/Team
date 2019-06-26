@@ -1,0 +1,11 @@
+R:\DevelopmentLibrary\.NET Development\StoreBusinessProcess\StoreBusinessProcess\obj\Debug\netcoreapp2.2\StoreBusinessProcess.csprojAssemblyReference.cache
+R:\DevelopmentLibrary\.NET Development\StoreBusinessProcess\StoreBusinessProcess\obj\Debug\netcoreapp2.2\StoreBusinessProcess.csproj.CoreCompileInputs.cache
+R:\DevelopmentLibrary\.NET Development\StoreBusinessProcess\StoreBusinessProcess\obj\Debug\netcoreapp2.2\StoreBusinessProcess.AssemblyInfoInputs.cache
+R:\DevelopmentLibrary\.NET Development\StoreBusinessProcess\StoreBusinessProcess\obj\Debug\netcoreapp2.2\StoreBusinessProcess.AssemblyInfo.cs
+R:\DevelopmentLibrary\.NET Development\StoreBusinessProcess\StoreBusinessProcess\bin\Debug\netcoreapp2.2\StoreBusinessProcess.deps.json
+R:\DevelopmentLibrary\.NET Development\StoreBusinessProcess\StoreBusinessProcess\bin\Debug\netcoreapp2.2\StoreBusinessProcess.runtimeconfig.json
+R:\DevelopmentLibrary\.NET Development\StoreBusinessProcess\StoreBusinessProcess\bin\Debug\netcoreapp2.2\StoreBusinessProcess.runtimeconfig.dev.json
+R:\DevelopmentLibrary\.NET Development\StoreBusinessProcess\StoreBusinessProcess\bin\Debug\netcoreapp2.2\StoreBusinessProcess.dll
+R:\DevelopmentLibrary\.NET Development\StoreBusinessProcess\StoreBusinessProcess\bin\Debug\netcoreapp2.2\StoreBusinessProcess.pdb
+R:\DevelopmentLibrary\.NET Development\StoreBusinessProcess\StoreBusinessProcess\obj\Debug\netcoreapp2.2\StoreBusinessProcess.dll
+R:\DevelopmentLibrary\.NET Development\StoreBusinessProcess\StoreBusinessProcess\obj\Debug\netcoreapp2.2\StoreBusinessProcess.pdb
